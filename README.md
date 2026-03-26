@@ -1,4 +1,4 @@
-# project_elevatelabs
+# profit-optimization-retail-analysis
 
 # 🛍️ Retail Business Performance & Profitability Analysis
 
